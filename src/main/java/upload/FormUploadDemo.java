@@ -26,8 +26,8 @@
 //    private String endpoint = "http://oss-cn-beijing.aliyuncs.com";
 //    // 阿里云主账号AccessKey拥有所有API的访问权限，风险很高。强烈建议您创建并使用RAM账号进行API访问或日常运维，
 //    // 请登录 https://ram.console.aliyun.com 创建RAM账号。
-//    private String accessKeyId  ="LTAI8wWiL59xBmmb";
-//    private String accessKeySecret = "I5dZEhyCNUnTKFLoRQihINUqoVB14X";
+//    private String accessKeyId  ="";
+//    private String accessKeySecret = "";
 //    // 这是你创建的存储桶的名称
 //    private String bucketName = "<yourBucketName>";
 //    // 文件名称
